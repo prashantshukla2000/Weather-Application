@@ -1,0 +1,5 @@
+Unzip the node module and then
+in terminal after accessing the directory write nodemon app.js
+in the localhost:3000 you can view the temp cloudiness and the image 
+associated with it for any city you like.
+(Build using open weather api.)
